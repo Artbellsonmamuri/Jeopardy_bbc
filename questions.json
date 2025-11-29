@@ -55,6 +55,4 @@
     "clue": "God fed Israel in the wilderness with this bread from heaven.",
     "answer": "manna"
   }
-  // Add more questions here - easily expandable to 750+ total
-  // Follow the pattern: id, category(0-4), difficulty(1-5), clue, answer
 ]
