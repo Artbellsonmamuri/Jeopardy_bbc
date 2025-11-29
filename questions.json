@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This garden was where Adam and Eve first lived in innocence before the fall.",
+    "answer": "Garden of Eden"
+  },
+  {
+    "id": 2,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This city is where Jesus was born, fulfilling Old Testament prophecy.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 3,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This sea parted so the children of Israel could escape Pharaoh's army.",
+    "answer": "Red Sea"
+  },
+  {
+    "id": 4,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This man built an ark and found grace in the eyes of the Lord.",
+    "answer": "Noah"
+  },
+  {
+    "id": 5,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This shepherd boy killed Goliath and later became king of Israel.",
+    "answer": "David"
+  },
+  {
+    "id": 6,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event occurred when God created the heavens and the earth in six days.",
+    "answer": "Creation"
+  },
+  {
+    "id": 7,
+    "category": 3,
+    "difficulty": 1,
+    "clue": "God created the world in this many days before He rested.",
+    "answer": "six"
+  },
+  {
+    "id": 8,
+    "category": 4,
+    "difficulty": 1,
+    "clue": "God fed Israel in the wilderness with this bread from heaven.",
+    "answer": "manna"
+  }
+  // Add more questions here - easily expandable to 750+ total
+  // Follow the pattern: id, category(0-4), difficulty(1-5), clue, answer
+]
