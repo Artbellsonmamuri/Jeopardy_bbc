@@ -3,56 +3,2940 @@
     "id": 1,
     "category": 0,
     "difficulty": 1,
-    "clue": "This garden was where Adam and Eve first lived in innocence before the fall.",
-    "answer": "Garden of Eden"
+    "clue": "This town is the birthplace of Jesus Christ, fulfilling Micah 5:2.",
+    "answer": "Bethlehem"
   },
   {
     "id": 2,
     "category": 0,
     "difficulty": 1,
-    "clue": "This city is where Jesus was born, fulfilling Old Testament prophecy.",
-    "answer": "Bethlehem"
+    "clue": "Joseph and Mary traveled from this city in Galilee for the census.",
+    "answer": "Nazareth"
   },
   {
     "id": 3,
     "category": 0,
     "difficulty": 1,
-    "clue": "This sea parted so the children of Israel could escape Pharaoh's army.",
-    "answer": "Red Sea"
+    "clue": "Jesus was laid in a manger in this kind of shelter after His birth.",
+    "answer": "Stable"
   },
   {
     "id": 4,
-    "category": 1,
+    "category": 0,
     "difficulty": 1,
-    "clue": "This man built an ark and found grace in the eyes of the Lord.",
-    "answer": "Noah"
+    "clue": "An angel of the Lord appeared to shepherds in the fields near this place.",
+    "answer": "Bethlehem"
   },
   {
     "id": 5,
-    "category": 1,
+    "category": 0,
     "difficulty": 1,
-    "clue": "This shepherd boy killed Goliath and later became king of Israel.",
-    "answer": "David"
+    "clue": "The wise men came first to this city seeking He that is born King of the Jews.",
+    "answer": "Jerusalem"
   },
   {
     "id": 6,
-    "category": 2,
+    "category": 0,
     "difficulty": 1,
-    "clue": "This event occurred when God created the heavens and the earth in six days.",
-    "answer": "Creation"
+    "clue": "There was no room for Mary and Joseph in this place in Bethlehem.",
+    "answer": "Inn"
   },
   {
     "id": 7,
-    "category": 3,
+    "category": 0,
     "difficulty": 1,
-    "clue": "God created the world in this many days before He rested.",
-    "answer": "six"
+    "clue": "Shepherds watched their flocks by night in the fields of this region.",
+    "answer": "Bethlehem"
   },
   {
     "id": 8,
-    "category": 4,
+    "category": 0,
     "difficulty": 1,
-    "clue": "God fed Israel in the wilderness with this bread from heaven.",
-    "answer": "manna"
+    "clue": "Joseph, Mary, and Jesus fled to this country to escape Herod's wrath.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 9,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "King Herod ruled this land when Jesus was born.",
+    "answer": "Judea"
+  },
+  {
+    "id": 10,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This was the star that guided the wise men to Jesus.",
+    "answer": "Star of Bethlehem"
+  },
+  {
+    "id": 11,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Mary brought Jesus to this holy place to be presented before the Lord.",
+    "answer": "Temple"
+  },
+  {
+    "id": 12,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Jesus grew up in this town where Mary and Joseph returned from Egypt.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 13,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "The census that brought Mary and Joseph to Bethlehem was decreed by this empire.",
+    "answer": "Rome"
+  },
+  {
+    "id": 14,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This region was where John the Baptist was born and raised.",
+    "answer": "Judea"
+  },
+  {
+    "id": 15,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Wise men presented gifts to Jesus in this type of dwelling.",
+    "answer": "House"
+  },
+  {
+    "id": 16,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "The holy family sought shelter but found only this in Bethlehem.",
+    "answer": "Manger"
+  },
+  {
+    "id": 17,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This large city was the capital where King Herod ruled.",
+    "answer": "Jerusalem"
+  },
+  {
+    "id": 18,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Shepherds came to this place to see the baby Jesus.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 19,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This region in northern Israel was where Jesus spent His childhood.",
+    "answer": "Galilee"
+  },
+  {
+    "id": 20,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "The angel appeared to shepherds over these open areas near Bethlehem.",
+    "answer": "Fields"
+  },
+  {
+    "id": 21,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This small village was the childhood home of Mary and Joseph.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 22,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Jesus was born in a lowly place, not in this grand structure.",
+    "answer": "Palace"
+  },
+  {
+    "id": 23,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This direction the wise men came from when seeking the newborn King.",
+    "answer": "East"
+  },
+  {
+    "id": 24,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "The shepherds abode in the fields of this town.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 25,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This was the name of the region where Joseph was afraid to return with Jesus.",
+    "answer": "Judea"
+  },
+  {
+    "id": 26,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This major road led from Nazareth down to Bethlehem.",
+    "answer": "The way"
+  },
+  {
+    "id": 27,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Angels appeared over this geographic feature near the shepherds.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 28,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This town in Galilee was where Jesus would make His home.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 29,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "The holy family fled to this distant land when Herod sought the child.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 30,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This ancient city was where all the prophecies about Jesus birth converged.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 31,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Joseph returned with Mary and Jesus to settle in this Galilean town.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 32,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This was the place where shepherds watched their flocks through the night.",
+    "answer": "Fields"
+  },
+  {
+    "id": 33,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "The decree to tax all the world brought Joseph and Mary to this town.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 34,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This empire's ruler, Caesar Augustus, ordered the taxing.",
+    "answer": "Roman Empire"
+  },
+  {
+    "id": 35,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Wise men presented their gifts in the house where Jesus lay with Mary.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 36,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This king's palace was in Jerusalem during Jesus birth.",
+    "answer": "Herod's palace"
+  },
+  {
+    "id": 37,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Jesus was presented as a firstborn male in this holy building.",
+    "answer": "Temple"
+  },
+  {
+    "id": 38,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "The shepherds journeyed to this town after seeing the angels.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 39,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This place provided shelter for the shepherds when they rested their flocks.",
+    "answer": "Fields"
+  },
+  {
+    "id": 40,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Joseph and Mary returned to this town after fleeing Egypt.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 41,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "The taxing began when Cyrenius was governor of this region.",
+    "answer": "Syria"
+  },
+  {
+    "id": 42,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Herod sought to destroy the young child in this city.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 43,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This was the place where the shepherds found Mary, Joseph, and the babe.",
+    "answer": "Manger"
+  },
+  {
+    "id": 44,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Wise men from this direction brought gifts and worship to the King.",
+    "answer": "East"
+  },
+  {
+    "id": 45,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This town was known as the city of David.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 46,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "Joseph and Mary dwelt in this place to escape Herod's slaughter.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 47,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This was Herod's realm when he sought to kill the infant Jesus.",
+    "answer": "Judea"
+  },
+  {
+    "id": 48,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "The manger where Jesus lay was in a humble place called this.",
+    "answer": "Stable"
+  },
+  {
+    "id": 49,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "This region was safe for Joseph, Mary, and Jesus to settle in after Egypt.",
+    "answer": "Galilee"
+  },
+  {
+    "id": 50,
+    "category": 0,
+    "difficulty": 1,
+    "clue": "The holy family made their home again in this town of Galilee.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 51,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "According to Luke, Joseph went to the city of David, which is called this, to be taxed.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 52,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This prophecy from Micah predicted the ruler of Israel would come out of Bethlehem Ephratah.",
+    "answer": "Micah 5:2"
+  },
+  {
+    "id": 53,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "The star led the wise men to this more specific location.",
+    "answer": "House"
+  },
+  {
+    "id": 54,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This country became a refuge for the holy family from Herod.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 55,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Joseph was warned by an angel in a dream to flee to this land.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 56,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "After Herod died, Joseph returned with Mary and Jesus to this region.",
+    "answer": "Israel"
+  },
+  {
+    "id": 57,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Joseph was afraid to return to this region because Archelaus reigned there.",
+    "answer": "Judea"
+  },
+  {
+    "id": 58,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This small town is located in the hill country of Judea.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 59,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Simeon came to the temple in this city to see the consolation of Israel.",
+    "answer": "Jerusalem"
+  },
+  {
+    "id": 60,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "The shepherds left their flocks in these open spaces near Bethlehem.",
+    "answer": "Fields"
+  },
+  {
+    "id": 61,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This region was where Elizabeth, mother of John, dwelt.",
+    "answer": "Judea"
+  },
+  {
+    "id": 62,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Mary lived in this city before the angel appeared to her.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 63,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Jesus was born according to the scripture in this town of David.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 64,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This is the name of the inn where Joseph sought lodging.",
+    "answer": "Inn"
+  },
+  {
+    "id": 65,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "The wise men were warned in a dream not to return to this city.",
+    "answer": "Jerusalem"
+  },
+  {
+    "id": 66,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Herod inquired of the wise men the time when this appeared.",
+    "answer": "Star"
+  },
+  {
+    "id": 67,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This empire's power brought the decree for the taxing.",
+    "answer": "Rome"
+  },
+  {
+    "id": 68,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Jesus was raised in this northern city of Galilee.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 69,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "The shepherds found the babe lying in this feeding trough.",
+    "answer": "Manger"
+  },
+  {
+    "id": 70,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This country was Egypt's neighbor to the east.",
+    "answer": "Canaan (or Israel)"
+  },
+  {
+    "id": 71,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "After Herod's death, an angel told Joseph to go to this area.",
+    "answer": "Israel"
+  },
+  {
+    "id": 72,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "The tax gathering took place under the authority of this Syrian governor.",
+    "answer": "Cyrenius"
+  },
+  {
+    "id": 73,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Mary and Joseph traveled with the young child to this place for presentation.",
+    "answer": "Jerusalem"
+  },
+  {
+    "id": 74,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "The wise men asked Herod where this prophesied ruler should be born.",
+    "answer": "Christ"
+  },
+  {
+    "id": 75,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This was the house where Jesus was found by the wise men.",
+    "answer": "House"
+  },
+  {
+    "id": 76,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Joseph and Mary were fleeing to this land across the Red Sea.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 77,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This was the traditional Jewish place of offering and prayer.",
+    "answer": "Temple"
+  },
+  {
+    "id": 78,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "The slaughter of the male children took place in and around this city.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 79,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Anna spoke of Jesus to all those looking for this in Jerusalem.",
+    "answer": "Redemption"
+  },
+  {
+    "id": 80,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Joseph turned aside into the parts of this region upon returning from Egypt.",
+    "answer": "Galilee"
+  },
+  {
+    "id": 81,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This was the place where Mary was espoused to Joseph.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 82,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "The decree to tax involved registration in this empire's territories.",
+    "answer": "Roman Empire"
+  },
+  {
+    "id": 83,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This place was where Zacharias and Elizabeth dwelt.",
+    "answer": "Judea"
+  },
+  {
+    "id": 84,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Jesus was called a Nazarene because He grew up in this city.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 85,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "The wise men followed this celestial object to find the King.",
+    "answer": "Star"
+  },
+  {
+    "id": 86,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This direction is where Egypt lies from the land of Israel.",
+    "answer": "South"
+  },
+  {
+    "id": 87,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "Archelaus ruled this territory, causing Joseph to fear returning.",
+    "answer": "Judea"
+  },
+  {
+    "id": 88,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This was the exact place where the prophecy of Bethlehem was fulfilled.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 89,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "The shepherds dwelt in the fields watching this kind of animal.",
+    "answer": "Sheep"
+  },
+  {
+    "id": 90,
+    "category": 0,
+    "difficulty": 2,
+    "clue": "This house received the wise men with their precious gifts.",
+    "answer": "House"
+  },
+  {
+    "id": 91,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "Matthew states Jesus was born in Bethlehem and found in this specific dwelling.",
+    "answer": "House"
+  },
+  {
+    "id": 92,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This Judean town fulfilled the minor prophecy in Micah about a ruler.",
+    "answer": "Bethlehem Ephratah"
+  },
+  {
+    "id": 93,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The slaughter of children took place within a certain distance around Bethlehem.",
+    "answer": "Coasts"
+  },
+  {
+    "id": 94,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "According to Jeremiah, this place was associated with weeping for the children.",
+    "answer": "Ramah"
+  },
+  {
+    "id": 95,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This Galilean region was chosen for Jesus to grow up safely.",
+    "answer": "Galilee"
+  },
+  {
+    "id": 96,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The prophecy in Hosea 11:1 refers to Jesus coming from this country.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 97,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This ruler's territory was avoided by Joseph after returning from Egypt.",
+    "answer": "Archelaus"
+  },
+  {
+    "id": 98,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The wise men's journey originated from this general direction.",
+    "answer": "East"
+  },
+  {
+    "id": 99,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This Roman official decreed the taxing that brought Joseph and Mary to Bethlehem.",
+    "answer": "Caesar Augustus"
+  },
+  {
+    "id": 100,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The shepherds found the babe in a stable, which fulfilled this humble station.",
+    "answer": "Incarnation"
+  },
+  {
+    "id": 101,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This Judean town was also called the city of David.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 102,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "Wisemen were summoned to this city to meet with Herod.",
+    "answer": "Jerusalem"
+  },
+  {
+    "id": 103,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This was the place where Zechariah performed priestly duties when Gabriel appeared.",
+    "answer": "Temple"
+  },
+  {
+    "id": 104,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The journey Joseph, Mary, and Jesus took was to escape this ruler's wrath.",
+    "answer": "Herod"
+  },
+  {
+    "id": 105,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This northern region of Israel provided refuge for the holy family.",
+    "answer": "Galilee"
+  },
+  {
+    "id": 106,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The wise men brought gifts to this humble location.",
+    "answer": "House"
+  },
+  {
+    "id": 107,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This was the city whose governor ordered the taxing.",
+    "answer": "Jerusalem"
+  },
+  {
+    "id": 108,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "Simeon and Anna dwelt in this sacred location.",
+    "answer": "Temple"
+  },
+  {
+    "id": 109,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This land was conquered and ruled by Rome during Jesus birth.",
+    "answer": "Israel"
+  },
+  {
+    "id": 110,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The shepherds left these open spaces upon hearing the angelic proclamation.",
+    "answer": "Fields"
+  },
+  {
+    "id": 111,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "Joseph intended to return to this land with Mary and Jesus after Egypt.",
+    "answer": "Israel"
+  },
+  {
+    "id": 112,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This specific town was known throughout history as the birthplace of David.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 113,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The angel told Mary she would bear a son in this city.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 114,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This was the place where John was conceived in Elizabeth's womb.",
+    "answer": "Judea"
+  },
+  {
+    "id": 115,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The wise men inquired of Herod where this was to be born.",
+    "answer": "Christ"
+  },
+  {
+    "id": 116,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This Syrian governor oversaw the taxing of the region.",
+    "answer": "Cyrenius"
+  },
+  {
+    "id": 117,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The shepherds came to this specific town seeking the newborn.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 118,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "Joseph and Mary lodged not in this but in a stable.",
+    "answer": "Inn"
+  },
+  {
+    "id": 119,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This location was where shepherds tended their flocks at night.",
+    "answer": "Fields"
+  },
+  {
+    "id": 120,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The wise men were prevented from returning to this ruler.",
+    "answer": "Herod"
+  },
+  {
+    "id": 121,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This was the land where Mary was told Jesus would be born.",
+    "answer": "Judea"
+  },
+  {
+    "id": 122,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The infant Jesus was presented at this sacred place.",
+    "answer": "Temple"
+  },
+  {
+    "id": 123,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This town in Galilee was where Joseph returned to raise Jesus.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 124,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The journey to escape Herod took the family to this distant country.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 125,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This was the place from which the wise men observed the star.",
+    "answer": "East"
+  },
+  {
+    "id": 126,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The shepherds hastened to find this newborn in Bethlehem.",
+    "answer": "Jesus"
+  },
+  {
+    "id": 127,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This prophecy from Isaiah was fulfilled in the virgin birth.",
+    "answer": "Isaiah 7:14"
+  },
+  {
+    "id": 128,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The wise men traveled a great distance from this general region.",
+    "answer": "East"
+  },
+  {
+    "id": 129,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "This land became a temporary refuge for the baby Jesus.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 130,
+    "category": 0,
+    "difficulty": 3,
+    "clue": "The town where Mary and Joseph settled after Egypt.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 131,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "According to the book of Matthew, the wise men came to this city seeking the newborn king.",
+    "answer": "Jerusalem"
+  },
+  {
+    "id": 132,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "Micah's prophecy narrowed the birth of the ruler to this specific town.",
+    "answer": "Bethlehem Ephratah"
+  },
+  {
+    "id": 133,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The flight path from Herod's kingdom took the family to this African nation.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 134,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "Hosea's prophecy stated Christ would be called out of this nation.",
+    "answer": "Egypt"
+  },
+  {
+    "id": 135,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The region which Archelaus ruled, causing Joseph to avoid it.",
+    "answer": "Judea"
+  },
+  {
+    "id": 136,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "This land became the childhood home of Jesus as predicted.",
+    "answer": "Galilee"
+  },
+  {
+    "id": 137,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The decree of taxation originated from this world empire.",
+    "answer": "Roman Empire"
+  },
+  {
+    "id": 138,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "Jeremiah's prophecy about weeping mothers was connected to this place.",
+    "answer": "Ramah"
+  },
+  {
+    "id": 139,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The star phenomenon appeared over this specific location.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 140,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "Joseph sought shelter in this city for the census.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 141,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "Mary was warned by angelic message while in this town.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 142,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The holy family fled in the darkness to escape this ruler's persecution.",
+    "answer": "Herod"
+  },
+  {
+    "id": 143,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "This kingdom was ruled by Herod the Great during Christ's birth.",
+    "answer": "Israel"
+  },
+  {
+    "id": 144,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The presentation of Jesus occurred at this ancient worship center.",
+    "answer": "Temple in Jerusalem"
+  },
+  {
+    "id": 145,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "This Galilean city was where Jesus would fulfill His calling.",
+    "answer": "Nazareth"
+  },
+  {
+    "id": 146,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The wise men's route took them across deserts from this region.",
+    "answer": "East"
+  },
+  {
+    "id": 147,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "This was the place of lowly birth, fulfilling Isaiah's prophecy.",
+    "answer": "Stable"
+  },
+  {
+    "id": 148,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The taxing decree was issued by this most powerful ruler.",
+    "answer": "Caesar Augustus"
+  },
+  {
+    "id": 149,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "Cyrenius was the governor of this region at the time of the taxing.",
+    "answer": "Syria"
+  },
+  {
+    "id": 150,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The angels appeared to shepherds in the fields around this city.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 151,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "Elizabeth and Zacharias dwelt in this mountainous region.",
+    "answer": "Judea"
+  },
+  {
+    "id": 152,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The wise men came seeking the King of the Jews in this capital.",
+    "answer": "Jerusalem"
+  },
+  {
+    "id": 153,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "This stable provided the birthplace of the Savior.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 154,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The prophecy of the virgin birth was given to this people.",
+    "answer": "Israel"
+  },
+  {
+    "id": 155,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "Joseph returned from Egypt with Mary and Jesus to this region.",
+    "answer": "Galilee"
+  },
+  {
+    "id": 156,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The birth of the King occurred in this specific town.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 157,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The wise men's gifts were presented in this humble dwelling.",
+    "answer": "House"
+  },
+  {
+    "id": 158,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "Herod ruled this land when Christ was born.",
+    "answer": "Judea"
+  },
+  {
+    "id": 159,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "The shepherds came to the stable in this city.",
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 160,
+    "category": 0,
+    "difficulty": 4,
+    "clue": "This small town Bethlehem is located in the hills of this region.",
+    "answer": "Judea"
+  },
+  {
+    "id": 161,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "Micah 5:2 prophesied the ruler would come from Bethlehem but rules would come from where?",
+    "answer": "Everlasting"
+  },
+  {
+    "id": 162,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The prophecy in Hosea 11:1 connects Christ's return from Egypt to this theological concept.",
+    "answer": "Redemption history"
+  },
+  {
+    "id": 163,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "Jeremiah 31:15 was fulfilled when Herod slew the children near this city.",
+    "answer": "Ramah"
+  },
+  {
+    "id": 164,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "Isaiah 7:14 prophesied Christ would be born of a virgin in this manner.",
+    "answer": "Sign"
+  },
+  {
+    "id": 165,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The wise men's journey from the east fulfilled this type of prophecy.",
+    "answer": "Gentile worship"
+  },
+  {
+    "id": 166,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "Caesar Augustus's decree demonstrates God's providential control over which empire?",
+    "answer": "Rome"
+  },
+  {
+    "id": 167,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "Joseph's flight to Egypt with Jesus fulfilled the type of this Old Testament exodus.",
+    "answer": "Israel from Egypt"
+  },
+  {
+    "id": 168,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The stable birth of Jesus fulfilled prophecy regarding this quality.",
+    "answer": "Humility"
+  },
+  {
+    "id": 169,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The shepherds' vision connects them to this theological event.",
+    "answer": "Incarnation"
+  },
+  {
+    "id": 170,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The presentation of Jesus in the temple fulfilled this Old Testament ordinance.",
+    "answer": "Firstborn redemption"
+  },
+  {
+    "id": 171,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "Archelaus's rule prevented the holy family from returning to which region?",
+    "answer": "Judea"
+  },
+  {
+    "id": 172,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The slaughter of innocent children fulfills the messianic expectation of this Old Testament figure's persecution.",
+    "answer": "Moses"
+  },
+  {
+    "id": 173,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The home of Jesus in Nazareth fulfilled the prophecy that He would be called this.",
+    "answer": "Nazarene"
+  },
+  {
+    "id": 174,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The star of Bethlehem was interpreted by the Magi according to this ancient science.",
+    "answer": "Astrology"
+  },
+  {
+    "id": 175,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The wise men's worship of Jesus demonstrated belief in His status as this.",
+    "answer": "King"
+  },
+  {
+    "id": 176,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The taxing by Rome brought Joseph and Mary to Bethlehem to fulfill this prophecy.",
+    "answer": "Micah 5:2"
+  },
+  {
+    "id": 177,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The manger birth illustrates Christ's condescension to this lowly state.",
+    "answer": "Humiliation"
+  },
+  {
+    "id": 178,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The flight to Egypt parallels this biblical deliverance narrative.",
+    "answer": "Exodus"
+  },
+  {
+    "id": 179,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "Simeon and Anna recognized Jesus as the fulfillment of this theological expectation.",
+    "answer": "Consolation of Israel"
+  },
+  {
+    "id": 180,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The Virgin Mary's conception by the Holy Ghost demonstrates God's power over this.",
+    "answer": "Natural law"
+  },
+  {
+    "id": 181,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The appearance of the star connected the wise men's worship to this theological truth.",
+    "answer": "Revelation of Christ"
+  },
+  {
+    "id": 182,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The shepherds' lowly station emphasizes the gospel's availability to whom?",
+    "answer": "All people"
+  },
+  {
+    "id": 183,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "Herod's slaughter demonstrates Satan's opposition to this figure.",
+    "answer": "Christ"
+  },
+  {
+    "id": 184,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The circumcision and presentation of Jesus fulfilled which Old Testament law?",
+    "answer": "Levitical law"
+  },
+  {
+    "id": 185,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "Joseph's righteous decision not to put Mary away demonstrates adherence to this value.",
+    "answer": "Mercy"
+  },
+  {
+    "id": 186,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The wise men's gifts symbolize Christ's roles as prophet, priest, and this.",
+    "answer": "King"
+  },
+  {
+    "id": 187,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The return from Egypt fulfills the pattern of God's deliverance in this historic event.",
+    "answer": "Exodus"
+  },
+  {
+    "id": 188,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The birth of Jesus in Bethlehem fulfills the dynasty expectation of this Old Testament king.",
+    "answer": "David"
+  },
+  {
+    "id": 189,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The angel's proclamation of Christ's coming demonstrates this attribute of God.",
+    "answer": "Grace"
+  },
+  {
+    "id": 190,
+    "category": 0,
+    "difficulty": 5,
+    "clue": "The shepherds' immediate belief manifests this quality emphasized in Baptist doctrine.",
+    "answer": "Faith"
+  },
+  {
+    "id": 201,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This virgin espoused to Joseph was chosen to be the mother of Jesus.",
+    "answer": "Mary"
+  },
+  {
+    "id": 202,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This carpenter was the earthly guardian and protector of Jesus.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 203,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "These humble men were the first to visit the newborn Jesus.",
+    "answer": "Shepherds"
+  },
+  {
+    "id": 204,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This king was troubled when he heard of the birth of a rival king.",
+    "answer": "Herod"
+  },
+  {
+    "id": 205,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "An angel with this name announced Christ's coming to Mary.",
+    "answer": "Gabriel"
+  },
+  {
+    "id": 206,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This prophet in the temple took the child Jesus in his arms.",
+    "answer": "Simeon"
+  },
+  {
+    "id": 207,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This aged woman prophetess gave thanks for the infant Jesus.",
+    "answer": "Anna"
+  },
+  {
+    "id": 208,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "These men came from the east guided by a star to worship the young child.",
+    "answer": "Wise men"
+  },
+  {
+    "id": 209,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This Roman emperor decreed that all the world should be taxed.",
+    "answer": "Caesar Augustus"
+  },
+  {
+    "id": 210,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This governor of Syria was in authority during the census.",
+    "answer": "Cyrenius"
+  },
+  {
+    "id": 211,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This Old Testament prophet foretold that a virgin would conceive.",
+    "answer": "Isaiah"
+  },
+  {
+    "id": 212,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This Old Testament prophet foretold Jesus would be born in Bethlehem.",
+    "answer": "Micah"
+  },
+  {
+    "id": 213,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This Old Testament patriarch is shown in Jesus' genealogy as His ancestor.",
+    "answer": "Abraham"
+  },
+  {
+    "id": 214,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This king's line is traced through Jesus according to Luke's genealogy.",
+    "answer": "David"
+  },
+  {
+    "id": 215,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This wicked ruler ordered the slaughter of male children in Bethlehem.",
+    "answer": "Herod"
+  },
+  {
+    "id": 216,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This righteous man was espoused to Mary.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 217,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This relative of Mary bore John the Baptist.",
+    "answer": "Elisabeth"
+  },
+  {
+    "id": 218,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This priest was struck dumb when Gabriel appeared to him.",
+    "answer": "Zacharias"
+  },
+  {
+    "id": 219,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "These men are identified by their gifts but not their number.",
+    "answer": "Wise men"
+  },
+  {
+    "id": 220,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This Old Testament prophet foretold a great light would shine.",
+    "answer": "Isaiah"
+  },
+  {
+    "id": 221,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This name means God with us, given to the prophesied child.",
+    "answer": "Emmanuel"
+  },
+  {
+    "id": 222,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This title, given by the angel to shepherds, identifies Jesus as the promised Deliverer.",
+    "answer": "Saviour"
+  },
+  {
+    "id": 223,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This New Testament writer emphasized Christ's deity with 'The Word was made flesh.'",
+    "answer": "John"
+  },
+  {
+    "id": 224,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This man's dream warned him to flee to Egypt.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 225,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This angel appeared to Joseph in dreams.",
+    "answer": "Gabriel"
+  },
+  {
+    "id": 226,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This king inquired of the wise men about the time the star appeared.",
+    "answer": "Herod"
+  },
+  {
+    "id": 227,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This ruler warned the wise men not to return to Herod.",
+    "answer": "God"
+  },
+  {
+    "id": 228,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This ruler gave the decree for the taxing of the world.",
+    "answer": "Caesar Augustus"
+  },
+  {
+    "id": 229,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This ruler took charge after Herod's death over part of the kingdom.",
+    "answer": "Archelaus"
+  },
+  {
+    "id": 230,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This ruler of Judea and Israel caused Joseph to fear upon return from Egypt.",
+    "answer": "Archelaus"
+  },
+  {
+    "id": 231,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This virgin was found to be with child by the Holy Ghost.",
+    "answer": "Mary"
+  },
+  {
+    "id": 232,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This man is called just and righteous for marrying Mary.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 233,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This woman was barren until Elizabeth conceived John.",
+    "answer": "Elisabeth"
+  },
+  {
+    "id": 234,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This man's mouth was opened when John was born.",
+    "answer": "Zacharias"
+  },
+  {
+    "id": 235,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "These men sought the young child to destroy him.",
+    "answer": "Herod's soldiers"
+  },
+  {
+    "id": 236,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This angel appeared to the shepherds with good tidings.",
+    "answer": "Gabriel"
+  },
+  {
+    "id": 237,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This woman spoke of Jesus to all who looked for redemption.",
+    "answer": "Anna"
+  },
+  {
+    "id": 238,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This man recognized Jesus as the consolation of Israel.",
+    "answer": "Simeon"
+  },
+  {
+    "id": 239,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This male child was born to Mary, the firstborn of her womb.",
+    "answer": "Jesus"
+  },
+  {
+    "id": 240,
+    "category": 1,
+    "difficulty": 1,
+    "clue": "This son was born to Elisabeth and Zacharias.",
+    "answer": "John"
+  },
+  {
+    "id": 241,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This just man was espoused to Mary before Jesus was born.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 242,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This virgin was blessed among women.",
+    "answer": "Mary"
+  },
+  {
+    "id": 243,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "These men observed the star in the east and followed it.",
+    "answer": "Wise men"
+  },
+  {
+    "id": 244,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This prophet was in the temple when the baby Jesus was brought.",
+    "answer": "Simeon"
+  },
+  {
+    "id": 245,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This prophetess gave thanks for the infant Jesus.",
+    "answer": "Anna"
+  },
+  {
+    "id": 246,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This righteous and devout man waited for the consolation of Israel.",
+    "answer": "Simeon"
+  },
+  {
+    "id": 247,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This aged woman was a widow of eighty four years.",
+    "answer": "Anna"
+  },
+  {
+    "id": 248,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This messenger brought the announcement of Christ's birth to Mary.",
+    "answer": "Gabriel"
+  },
+  {
+    "id": 249,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This messenger warned Joseph to flee to Egypt.",
+    "answer": "Angel of the Lord"
+  },
+  {
+    "id": 250,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This ruler of Judea was troubled at the report of a rival king.",
+    "answer": "Herod"
+  },
+  {
+    "id": 251,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This emperor issued the decree for the taxation.",
+    "answer": "Caesar Augustus"
+  },
+  {
+    "id": 252,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This governor of Syria was in office during the taxing.",
+    "answer": "Cyrenius"
+  },
+  {
+    "id": 253,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This male figure became the protector of the infant Jesus.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 254,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This female figure brought forth Jesus in Bethlehem.",
+    "answer": "Mary"
+  },
+  {
+    "id": 255,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "These humble men were keeping watch over their flocks by night.",
+    "answer": "Shepherds"
+  },
+  {
+    "id": 256,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This man served as high priest when Jesus was presented.",
+    "answer": "High priest"
+  },
+  {
+    "id": 257,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This woman dwelled in the hill country of Judea.",
+    "answer": "Elisabeth"
+  },
+  {
+    "id": 258,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This male was born to prepare the way for Jesus.",
+    "answer": "John the Baptist"
+  },
+  {
+    "id": 259,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This elderly couple dwelt in the hill country of Judea.",
+    "answer": "Zacharias and Elisabeth"
+  },
+  {
+    "id": 260,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This man was called the son of Joseph.",
+    "answer": "Jesus"
+  },
+  {
+    "id": 261,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "These men were of the royal court and brought gifts.",
+    "answer": "Wise men"
+  },
+  {
+    "id": 262,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This person was the mother of John the Baptist.",
+    "answer": "Elisabeth"
+  },
+  {
+    "id": 263,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This person was the father of John the Baptist.",
+    "answer": "Zacharias"
+  },
+  {
+    "id": 264,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This woman was a relative of Mary.",
+    "answer": "Elisabeth"
+  },
+  {
+    "id": 265,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This ruler died and his son took his place.",
+    "answer": "Herod"
+  },
+  {
+    "id": 266,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This man sought to destroy all the male children in Bethlehem.",
+    "answer": "Herod"
+  },
+  {
+    "id": 267,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "These men journeyed from a distant land to worship the King.",
+    "answer": "Wise men"
+  },
+  {
+    "id": 268,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This angel announced great joy to the shepherds.",
+    "answer": "Gabriel"
+  },
+  {
+    "id": 269,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This righteous man was willing to put Mary away privately.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 270,
+    "category": 1,
+    "difficulty": 2,
+    "clue": "This woman found favor with God to bear the Savior.",
+    "answer": "Mary"
+  },
+  {
+    "id": 271,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This Old Testament prophet spoke of the virgin birth in Isaiah 7:14.",
+    "answer": "Isaiah"
+  },
+  {
+    "id": 272,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This Old Testament prophet foretold the birthplace in Micah 5:2.",
+    "answer": "Micah"
+  },
+  {
+    "id": 273,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This Old Testament prophet Jeremiah foretold the slaughter of the innocents.",
+    "answer": "Jeremiah"
+  },
+  {
+    "id": 274,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This Old Testament prophet Hosea foretold Christ coming out of Egypt.",
+    "answer": "Hosea"
+  },
+  {
+    "id": 275,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This apostle recorded the genealogy and nativity accounts most fully.",
+    "answer": "Matthew"
+  },
+  {
+    "id": 276,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This evangelist provided the account of Jesus' birth and early years.",
+    "answer": "Luke"
+  },
+  {
+    "id": 277,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This man recognized Jesus as one who would be 'a sign spoken against.'",
+    "answer": "Simeon"
+  },
+  {
+    "id": 278,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This woman 'came in that instant' and gave thanks.",
+    "answer": "Anna"
+  },
+  {
+    "id": 279,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This ruler sought to know from the wise men when the star appeared.",
+    "answer": "Herod"
+  },
+  {
+    "id": 280,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This carpenter was a man of the law and obedient.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 281,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This virgin was troubled at Gabriel's announcement but obedient.",
+    "answer": "Mary"
+  },
+  {
+    "id": 282,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "These shepherds were keeping watch and were afraid.",
+    "answer": "Shepherds"
+  },
+  {
+    "id": 283,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This priest served in the temple when Gabriel appeared.",
+    "answer": "Zacharias"
+  },
+  {
+    "id": 284,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This woman was barren before conceiving John the Baptist.",
+    "answer": "Elisabeth"
+  },
+  {
+    "id": 285,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This ruler commanded all to be taxed.",
+    "answer": "Caesar Augustus"
+  },
+  {
+    "id": 286,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This governor oversaw the taxing in the region.",
+    "answer": "Cyrenius"
+  },
+  {
+    "id": 287,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This Jewish king was troubled by reports of the new King.",
+    "answer": "Herod"
+  },
+  {
+    "id": 288,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "These wise men represented the Gentile world worshipping Christ.",
+    "answer": "Magi"
+  },
+  {
+    "id": 289,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This man was warned by God in a dream to turn aside.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 290,
+    "category": 1,
+    "difficulty": 3,
+    "clue": "This messenger told the shepherds of the Saviour's birth.",
+    "answer": "Angel"
+  },
+  {
+    "id": 291,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This righteous man's obedience protected Jesus from Herod's wrath.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 292,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This virgin's faith is emphasized by her acceptance of Gabriel's message.",
+    "answer": "Mary"
+  },
+  {
+    "id": 293,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This priest's faith was tested when Gabriel appeared to him.",
+    "answer": "Zacharias"
+  },
+  {
+    "id": 294,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This woman's faith was demonstrated in her belief despite barrenness.",
+    "answer": "Elisabeth"
+  },
+  {
+    "id": 295,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "These humble men's faith led them to seek the newborn King.",
+    "answer": "Shepherds"
+  },
+  {
+    "id": 296,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This man's recognition of Jesus connected past to future in his prophecy.",
+    "answer": "Simeon"
+  },
+  {
+    "id": 297,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This woman's persistent prayer brought her to see the Lord's salvation.",
+    "answer": "Anna"
+  },
+  {
+    "id": 298,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "These men demonstrated faith by leaving their homes to worship a king.",
+    "answer": "Wise men"
+  },
+  {
+    "id": 299,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This ruler's opposition demonstrated Satan's attempt to thwart God's plan.",
+    "answer": "Herod"
+  },
+  {
+    "id": 300,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This governor's role placed him in God's providential plan.",
+    "answer": "Cyrenius"
+  },
+  {
+    "id": 301,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This emperor unknowingly fulfilled prophecy with his decree.",
+    "answer": "Caesar Augustus"
+  },
+  {
+    "id": 302,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This messenger appeared multiple times to announce and guide.",
+    "answer": "Gabriel"
+  },
+  {
+    "id": 303,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This angel warned the wise men in a dream.",
+    "answer": "Angel of the Lord"
+  },
+  {
+    "id": 304,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This multitude appeared to the shepherds with the angel.",
+    "answer": "Heavenly host"
+  },
+  {
+    "id": 305,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This man's dreams were instruments of God's guidance.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 306,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This woman's faith made her an example of trust in God's word.",
+    "answer": "Mary"
+  },
+  {
+    "id": 307,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This priest's faith was restored when John was born.",
+    "answer": "Zacharias"
+  },
+  {
+    "id": 308,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This prophetess waited for the consolation of Israel with steadfast faith.",
+    "answer": "Anna"
+  },
+  {
+    "id": 309,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "These men's worship demonstrated faith beyond cultural boundaries.",
+    "answer": "Wise men"
+  },
+  {
+    "id": 310,
+    "category": 1,
+    "difficulty": 4,
+    "clue": "This man's courage allowed him to speak openly about Jesus.",
+    "answer": "Simeon"
+  },
+  {
+    "id": 311,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This man's righteousness is defined in Baptist doctrine as living according to God's will.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 312,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This virgin's conception demonstrates God's transcendence over natural law.",
+    "answer": "Mary"
+  },
+  {
+    "id": 313,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This priest's unbelief was disciplined with silence until faith was proven.",
+    "answer": "Zacharias"
+  },
+  {
+    "id": 314,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This woman's faith despite natural impossibility models Baptist belief in God's word.",
+    "answer": "Elisabeth"
+  },
+  {
+    "id": 315,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "These men's simple faith emphasizes the gospel's universal appeal.",
+    "answer": "Shepherds"
+  },
+  {
+    "id": 316,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This man's prophecy regarding Jesus' rejection shows his spiritual insight.",
+    "answer": "Simeon"
+  },
+  {
+    "id": 317,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This woman's persistent prayer demonstrates Baptist emphasis on intercession.",
+    "answer": "Anna"
+  },
+  {
+    "id": 318,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "These men's adherence to angelic instruction shows commitment to God's truth.",
+    "answer": "Wise men"
+  },
+  {
+    "id": 319,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This ruler's opposition reveals Satan's hostility to Christ's mission.",
+    "answer": "Herod"
+  },
+  {
+    "id": 320,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This emperor's decree demonstrates God's sovereignty over earthly powers.",
+    "answer": "Caesar Augustus"
+  },
+  {
+    "id": 321,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This governor's administration placed him in God's providence.",
+    "answer": "Cyrenius"
+  },
+  {
+    "id": 322,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This messenger's role emphasizes God's communication to believers.",
+    "answer": "Gabriel"
+  },
+  {
+    "id": 323,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This multitude's proclamation emphasizes the cosmic significance of Christ's birth.",
+    "answer": "Heavenly host"
+  },
+  {
+    "id": 324,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This man's obedience to warnings protected the Incarnate Word from destruction.",
+    "answer": "Joseph"
+  },
+  {
+    "id": 325,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This woman's acceptance of the miraculous models faith in divine revelation.",
+    "answer": "Mary"
+  },
+  {
+    "id": 326,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This ruler's death allowed God's plan to proceed unhindered.",
+    "answer": "Herod"
+  },
+  {
+    "id": 327,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This angel's multiple appearances demonstrate God's guidance for His people.",
+    "answer": "Angel of the Lord"
+  },
+  {
+    "id": 328,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This prophetess's 84 years of waiting shows constancy in faith.",
+    "answer": "Anna"
+  },
+  {
+    "id": 329,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "This man's words of blessing demonstrate recognition of Christ's future mission.",
+    "answer": "Simeon"
+  },
+  {
+    "id": 330,
+    "category": 1,
+    "difficulty": 5,
+    "clue": "These men's worship from afar shows Christ's appeal to all nations.",
+    "answer": "Wise men"
+  },
+  {
+    "id": 401,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when the Son of God took on flesh.",
+    "answer": "Incarnation"
+  },
+  {
+    "id": 402,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event involved angels announcing good tidings to shepherds.",
+    "answer": "Angelic announcement"
+  },
+  {
+    "id": 403,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Mary gave birth to her firstborn son.",
+    "answer": "Birth of Jesus"
+  },
+  {
+    "id": 404,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when shepherds found Mary, Joseph, and the babe.",
+    "answer": "Visit of the shepherds"
+  },
+  {
+    "id": 405,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when wise men presented gifts to the young child.",
+    "answer": "Visit of the wise men"
+  },
+  {
+    "id": 406,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when an angel appeared to Mary to announce her special role.",
+    "answer": "Annunciation to Mary"
+  },
+  {
+    "id": 407,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when an angel appeared to Joseph in a dream.",
+    "answer": "Annunciation to Joseph"
+  },
+  {
+    "id": 408,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Caesar Augustus decreed the taxing.",
+    "answer": "Decree for taxation"
+  },
+  {
+    "id": 409,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when a multitude of heavenly host praised God.",
+    "answer": "Heavenly chorus"
+  },
+  {
+    "id": 410,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Jesus was presented in the temple.",
+    "answer": "Presentation in the temple"
+  },
+  {
+    "id": 411,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Joseph fled to Egypt with Mary and Jesus.",
+    "answer": "Flight to Egypt"
+  },
+  {
+    "id": 412,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Herod slew the male children in Bethlehem.",
+    "answer": "Massacre of the innocents"
+  },
+  {
+    "id": 413,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when wise men were warned not to return to Herod.",
+    "answer": "Warning in a dream"
+  },
+  {
+    "id": 414,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Joseph returned from Egypt with Mary and Jesus.",
+    "answer": "Return from Egypt"
+  },
+  {
+    "id": 415,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Jesus was called a Nazarene.",
+    "answer": "Settlement in Nazareth"
+  },
+  {
+    "id": 416,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when John the Baptist was born to Elisabeth.",
+    "answer": "Birth of John"
+  },
+  {
+    "id": 417,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Gabriel appeared to Zacharias in the temple.",
+    "answer": "Announcement of John's birth"
+  },
+  {
+    "id": 418,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Gabriel appeared to Mary in Nazareth.",
+    "answer": "Annunciation"
+  },
+  {
+    "id": 419,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when the star appeared to guide the wise men.",
+    "answer": "Appearance of the star"
+  },
+  {
+    "id": 420,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Herod died.",
+    "answer": "Death of Herod"
+  },
+  {
+    "id": 421,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Zacharias was struck dumb.",
+    "answer": "Zacharias struck dumb"
+  },
+  {
+    "id": 422,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Zacharias' mouth was opened.",
+    "answer": "Zacharias' speech restored"
+  },
+  {
+    "id": 423,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Jesus was circumcised.",
+    "answer": "Circumcision of Jesus"
+  },
+  {
+    "id": 424,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Jesus was named.",
+    "answer": "Naming of Jesus"
+  },
+  {
+    "id": 425,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Simeon held the baby Jesus.",
+    "answer": "Simeon's blessing"
+  },
+  {
+    "id": 426,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Anna gave thanks for the infant Jesus.",
+    "answer": "Anna's praise"
+  },
+  {
+    "id": 427,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Joseph and Mary marveled at Jesus.",
+    "answer": "Marvel of the parents"
+  },
+  {
+    "id": 428,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when Jesus was twelve years old in the temple.",
+    "answer": "Jesus in the temple"
+  },
+  {
+    "id": 429,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when swaddling clothes wrapped the infant Jesus.",
+    "answer": "Swaddling of Jesus"
+  },
+  {
+    "id": 430,
+    "category": 2,
+    "difficulty": 1,
+    "clue": "This event is when a manger received the baby Jesus.",
+    "answer": "Jesus laid in a manger"
+  },
+  {
+    "id": 431,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event fulfilled the prophecy in Micah 5:2 about Bethlehem.",
+    "answer": "Birth in Bethlehem"
+  },
+  {
+    "id": 432,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event fulfilled the prophecy in Isaiah 7:14 about a virgin.",
+    "answer": "Virgin birth"
+  },
+  {
+    "id": 433,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event fulfilled the prophecy in Hosea 11:1 about Egypt.",
+    "answer": "Return from Egypt"
+  },
+  {
+    "id": 434,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event fulfilled the prophecy in Jeremiah 31:15 about Rachel.",
+    "answer": "Slaughter of the innocents"
+  },
+  {
+    "id": 435,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when angels appeared to shepherds with great joy.",
+    "answer": "Angel appearance"
+  },
+  {
+    "id": 436,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when the wise men found Jesus in a house.",
+    "answer": "Wise men finding Jesus"
+  },
+  {
+    "id": 437,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when Joseph was warned to flee to Egypt.",
+    "answer": "Warning to flee"
+  },
+  {
+    "id": 438,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when Joseph was warned not to return to Judea.",
+    "answer": "Warning about Judea"
+  },
+  {
+    "id": 439,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when shepherds went to Bethlehem seeking the babe.",
+    "answer": "Shepherds seeking Jesus"
+  },
+  {
+    "id": 440,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when Herod inquired of the wise men about the star.",
+    "answer": "Herod's inquiry"
+  },
+  {
+    "id": 441,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when the star stopped over the house.",
+    "answer": "Star over the house"
+  },
+  {
+    "id": 442,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when wise men were warned in a dream not to return to Herod.",
+    "answer": "Divine warning to wise men"
+  },
+  {
+    "id": 443,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when shepherds spread the word about Jesus.",
+    "answer": "Shepherds spreading news"
+  },
+  {
+    "id": 444,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when Mary pondered these things in her heart.",
+    "answer": "Mary's reflection"
+  },
+  {
+    "id": 445,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when all the city of Jerusalem was troubled.",
+    "answer": "Jerusalem troubled"
+  },
+  {
+    "id": 446,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when Simeon recognized Jesus as the consolation of Israel.",
+    "answer": "Simeon's recognition"
+  },
+  {
+    "id": 447,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when Anna gave thanks and spoke of Jesus.",
+    "answer": "Anna's testimony"
+  },
+  {
+    "id": 448,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when parents brought Jesus to the temple.",
+    "answer": "Presentation at temple"
+  },
+  {
+    "id": 449,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when wise men departed to their own country.",
+    "answer": "Wise men's departure"
+  },
+  {
+    "id": 450,
+    "category": 2,
+    "difficulty": 2,
+    "clue": "This event is when the family settled in Nazareth.",
+    "answer": "Settling in Nazareth"
+  },
+  {
+    "id": 451,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event demonstrates God's sovereignty in providing a place of birth.",
+    "answer": "Birth in Bethlehem"
+  },
+  {
+    "id": 452,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event shows God's protection of Jesus from Satan's opposition.",
+    "answer": "Flight to Egypt"
+  },
+  {
+    "id": 453,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event demonstrates the angel Gabriel's role in God's plan.",
+    "answer": "Annunciations"
+  },
+  {
+    "id": 454,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event reveals Jesus' lowly estate at birth.",
+    "answer": "Birth in a stable"
+  },
+  {
+    "id": 455,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event shows the universality of the gospel through the wise men.",
+    "answer": "Wise men's worship"
+  },
+  {
+    "id": 456,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event demonstrates Jesus' obedience to the law.",
+    "answer": "Circumcision and presentation"
+  },
+  {
+    "id": 457,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event shows Jesus' humanity being recognized.",
+    "answer": "Naming ceremony"
+  },
+  {
+    "id": 458,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event demonstrates Jesus as the consolation of Israel.",
+    "answer": "Simeon's recognition"
+  },
+  {
+    "id": 459,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event shows the mother of Jesus being told of His future suffering.",
+    "answer": "Simeon's prophecy"
+  },
+  {
+    "id": 460,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event demonstrates God's warnings through dreams.",
+    "answer": "Dreams and warnings"
+  },
+  {
+    "id": 461,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event shows shepherds as the first to proclaim Christ.",
+    "answer": "Shepherds' testimony"
+  },
+  {
+    "id": 462,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event demonstrates Herod's opposition to the Messiah.",
+    "answer": "Massacre of innocents"
+  },
+  {
+    "id": 463,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event shows the importance of obedience to angelic guidance.",
+    "answer": "Wise men's obedience"
+  },
+  {
+    "id": 464,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event demonstrates Jesus' connection to David's throne.",
+    "answer": "Birth in Bethlehem David"
+  },
+  {
+    "id": 465,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event shows Jesus being called Emmanuel.",
+    "answer": "Declaration of name"
+  },
+  {
+    "id": 466,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event reveals Jesus' future mission through Simeon.",
+    "answer": "Simeon's sword prophecy"
+  },
+  {
+    "id": 467,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event shows the angels' role in announcing good news.",
+    "answer": "Angel announcement"
+  },
+  {
+    "id": 468,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event demonstrates God's provision for His Son.",
+    "answer": "Provision through Joseph"
+  },
+  {
+    "id": 469,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event shows Jesus' parents obedience to Jewish law.",
+    "answer": "Temple observances"
+  },
+  {
+    "id": 470,
+    "category": 2,
+    "difficulty": 3,
+    "clue": "This event demonstrates the power of God's plan.",
+    "answer": "Fulfillment of prophecy"
+  },
+  {
+    "id": 471,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event's fulfillment of prophecy demonstrates God's sovereignty.",
+    "answer": "Birth in Bethlehem"
+  },
+  {
+    "id": 472,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event emphasizes Christ's incarnation as central to Baptist doctrine.",
+    "answer": "Incarnation"
+  },
+  {
+    "id": 473,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event shows God using human power to accomplish His purposes.",
+    "answer": "Caesar's decree"
+  },
+  {
+    "id": 474,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event demonstrates God's warning system for believers.",
+    "answer": "Dreams and angels"
+  },
+  {
+    "id": 475,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event shows Jesus' humiliation in entering the world.",
+    "answer": "Stable birth"
+  },
+  {
+    "id": 476,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event emphasizes the gospel's inclusion of all nations.",
+    "answer": "Wise men's worship"
+  },
+  {
+    "id": 477,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event shows God's preservation of the Messiah.",
+    "answer": "Flight to Egypt"
+  },
+  {
+    "id": 478,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event connects Jesus to David's lineage.",
+    "answer": "Birth of Jesus in Bethlehem"
+  },
+  {
+    "id": 479,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event shows Jesus' obedience to Old Testament law.",
+    "answer": "Circumcision and presentation"
+  },
+  {
+    "id": 480,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event demonstrates Simeon's faith in God's promise.",
+    "answer": "Simeon's recognition"
+  },
+  {
+    "id": 481,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event shows Anna's witness to Jesus' identity.",
+    "answer": "Anna's proclamation"
+  },
+  {
+    "id": 482,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event emphasizes Mary's faith despite the extraordinary.",
+    "answer": "Virgin conception"
+  },
+  {
+    "id": 483,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event shows Joseph's righteousness in his actions.",
+    "answer": "Joseph's obedience"
+  },
+  {
+    "id": 484,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event demonstrates the shepherds' immediate faith response.",
+    "answer": "Shepherds hastening to Jesus"
+  },
+  {
+    "id": 485,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event shows the importance of angelic communication.",
+    "answer": "Multiple angel appearances"
+  },
+  {
+    "id": 486,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event emphasizes Jesus' coming for all humanity.",
+    "answer": "Universal Savior"
+  },
+  {
+    "id": 487,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event shows God's grace in choosing humble people.",
+    "answer": "Choosing shepherds"
+  },
+  {
+    "id": 488,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event connects the Old Testament to New Testament fulfillment.",
+    "answer": "Prophecy fulfillment"
+  },
+  {
+    "id": 489,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event shows Jesus' connection to divine promise.",
+    "answer": "Emmanuel declaration"
+  },
+  {
+    "id": 490,
+    "category": 2,
+    "difficulty": 4,
+    "clue": "This event demonstrates Satan's opposition to Christ.",
+    "answer": "Herod's massacre"
+  },
+  {
+    "id": 491,
+    "category": 2,
+    "difficulty": 5,
+    "clue": "This event's implications extend to Christ's eternal nature.",
+    "answer": "Incarnation"
+  },
+  {
+    "id": 492,
+    "category": 2,
+    "difficulty": 5,
+    "clue": "This event demonstrates Baptist doctrine of God's sovereignty.",
+    "answer": "Providence in birth"
+  },
+  {
+    "id": 493,
+    "category": 2,
+    "difficulty": 5,
+    "clue": "This event connects salvation history through fulfilled prophecy.",
+    "answer": "Messianic fulfillment"
+  },
+  {
+    "id": 494,
+    "category": 2,
+    "difficulty": 5,
+    "clue": "This event reveals God's grace through unlikely servants.",
+    "answer": "Shepherds' calling"
+  },
+  {
+    "id": 495,
+    "category": 2,
+    "difficulty": 5,
+    "clue": "This event shows God's revelation through supernatural means.",
+    "answer": "Angelic revelation"
+  },
+  {
+    "id": 496,
+    "category": 2,
+    "difficulty": 5,
+    "clue": "This event emphasizes the significance of the Incarnate Word.",
+    "answer": "Word made flesh"
+  },
+  {
+    "id": 497,
+    "category": 2,
+    "difficulty": 5,
+    "clue": "This event demonstrates God's protection of redemptive history.",
+    "answer": "Protection from Herod"
+  },
+  {
+    "id": 498,
+    "category": 2,
+    "difficulty": 5,
+    "clue": "This event shows God using political systems for His purpose.",
+    "answer": "Caesar's decree"
+  },
+  {
+    "id": 499,
+    "category": 2,
+    "difficulty": 5,
+    "clue": "This event connects Jesus to both Jewish and Gentile worlds.",
+    "answer": "Universal welcome"
+  },
+  {
+    "id": 500,
+    "category": 2,
+    "difficulty": 5,
+    "clue": "This event reveals God's plan working through history.",
+    "answer": "Providential timing"
   }
 ]
