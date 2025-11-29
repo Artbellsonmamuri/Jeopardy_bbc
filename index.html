@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bible Jeopardy - KJV Baptist Doctrine</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1e3a8a">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📖 Bible Jeopardy</h1>
+            <p>KJV • Baptist Doctrine</p>
+        </header>
+
+        <!-- Game Screen -->
+        <div id="gameScreen" class="screen active">
+            <div class="score-board">
+                <div class="score">Score: <span id="score">0</span></div>
+                <div class="streak">Streak: <span id="streak">0</span></div>
+                <div class="games">Games: <span id="gamesPlayed">0</span></div>
+            </div>
+
+            <div class="categories">
+                <button class="category-btn" data-category="0">Place</button>
+                <button class="category-btn" data-category="1">Person</button>
+                <button class="category-btn" data-category="2">Event</button>
+                <button class="category-btn" data-category="3">Number</button>
+                <button class="category-btn" data-category="4">Food</button>
+            </div>
+
+            <div class="difficulty-grid">
+                <button class="diff-btn" data-difficulty="1">Candy</button>
+                <button class="diff-btn" data-difficulty="2">Small Pack</button>
+                <button class="diff-btn" data-difficulty="3">Medium Pack</button>
+                <button class="diff-btn" data-difficulty="4">Big Pack</button>
+                <button class="diff-btn" data-difficulty="5">₱50 Cash</button>
+            </div>
+
+            <div class="stats">
+                <span id="questionsLeft">Questions available: <span id="availableCount">150</span></span>
+            </div>
+        </div>
+
+        <!-- Question Screen -->
+        <div id="questionScreen" class="screen">
+            <div class="question-header">
+                <span class="category-label" id="questionCategory"></span>
+                <span class="prize" id="questionPrize"></span>
+                <button id="backBtn" class="back-btn">← Back</button>
+            </div>
+            <div class="question-text" id="questionText"></div>
+            <div class="answer-input">
+                <input type="text" id="answerInput" placeholder="Type your answer here..." autocomplete="off">
+                <button id="submitBtn">Submit</button>
+            </div>
+            <div class="correct-answer" id="correctAnswer"></div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="resultsScreen" class="screen">
+            <h2>Game Complete!</h2>
+            <div class="final-score">Final Score: <span id="finalScore">0</span></div>
+            <button id="newGameBtn">New Game</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
